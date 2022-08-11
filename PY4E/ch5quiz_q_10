@@ -1,0 +1,2 @@
+if the smallest is None:
+    smallest = values

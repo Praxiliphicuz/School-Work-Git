@@ -1,0 +1,5 @@
+stud = 4000
+price = 6.50
+limit = 30000
+if limit < cash * stud
+print(invalid)
